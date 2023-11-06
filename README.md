@@ -1,1 +1,2 @@
 # odin-recipes
+I will be creating a website with multiple pages and pictures.  The initial page will have links to the recipe pages, which will then have the recipes, image and description.  In the process of creating the website, I will be demonstrating how to create the boilerplate, adding the title, using the heading, using the ordered and unordered lists, creating links to the recipe pages, adding images and having them all linked together.  Also being able to demonstrate the ability to create the directory and the files within by using git.
